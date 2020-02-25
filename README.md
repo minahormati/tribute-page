@@ -1,4 +1,4 @@
-A Survey Form Project
+A Tribute Page Project
 
 This makes up one part of portfolio on free code camp.
 
